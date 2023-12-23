@@ -13,6 +13,7 @@
 - [Reference](#reference)
 
 ### Project Overview
+---
 
 The primary goal of this project is to leverage data analytics and draw insights into the most favorable location to own a property in Seattle city metropolitan area, the type of apartment that mostly prefered by clients, the perfect time of the year to lease these apartment  and the price variation within the location.
 
@@ -20,11 +21,13 @@ The primary goal of this project is to leverage data analytics and draw insights
 
 
 ### Data Sources
+---
 
 This is an open data source from Seattle, Washington, United States name "listings.csv" file containg the summary information and metrics for listings in Seattle.
 
 
 ### Tools
+---
 
 - Excel - Data cleaning
    - [Download here](https://microsoft.com)
@@ -32,6 +35,7 @@ This is an open data source from Seattle, Washington, United States name "listin
 
 
 ### Data Cleaning
+---
 
 For the data preperation, we performed the following task:
 1. Data download from Kaggle
@@ -40,6 +44,7 @@ For the data preperation, we performed the following task:
 
 
 ### Exploratory Data Analysis
+---
 
 - Where is the best location to invest in AirBnB busines?
 - When is the time of the year to lease out AirBnB apartment?
@@ -49,6 +54,7 @@ For the data preperation, we performed the following task:
 
 
 ### Results
+---
 
 The analysis of the results are summerized as follows:
 1. It is evident that the best location to invest in AirBnB business is in Industrial District of Seattle, Washington as it has the highest ROI when correlated with the average price per bedroom.
@@ -57,6 +63,7 @@ The analysis of the results are summerized as follows:
 
 
 ### Recommendations
+---
 
 Based on the analysis, we recommend the following actions:
 - Invest in industrial district of Seattle
@@ -65,12 +72,14 @@ Based on the analysis, we recommend the following actions:
 
 
 ### Limitation 
+---
 
 - In order to get the price per bedroom, we converted bedroom data from numerical value to meaure names which is converting numerial values to dimension.
 - We also removed the null values as it does not add anything to data visualization.
 
 
  ### Reference
+ ---
 
  - Watch me do it Youtube channel
  - [Alex the Analyst](https://www.youtube.com/watch?v=zOR0-nygfDE)
