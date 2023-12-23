@@ -16,6 +16,8 @@
 
 The primary goal of this project is to leverage data analytics and draw insights into the most favorable location to own a property in Seattle city metropolitan area, the type of apartment that mostly prefered by clients, the perfect time of the year to lease these apartment  and the price variation within the location.
 
+<img width="1440" alt="AirBnB Dashboard" src="https://github.com/eddie-hub47/AirBnB_Rental_Analysis/assets/73760757/25c22044-9e83-4b80-8d65-5150a1f9abbf">
+
 
 ### Data Sources
 
@@ -43,6 +45,7 @@ For the data preperation, we performed the following task:
 - When is the time of the year to lease out AirBnB apartment?
 - Which type of apartment is mostly prefered by client?
 
+<img width="1440" alt="Screen Shot 2023-12-23 at 12 37 26 AM" src="https://github.com/eddie-hub47/AirBnB_Rental_Analysis/assets/73760757/00515fa9-3b5b-405c-8ea9-d9fb2a3aad92">
 
 
 ### Results
